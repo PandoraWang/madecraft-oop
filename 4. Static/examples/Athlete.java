@@ -4,7 +4,7 @@ public class Athlete {
 
 	private String name;
 	private int speed;
-	private static String marathonLocation;
+	private  String marathonLocation;
 	private int bibNumber;
 	private static int runnersInRace;
 
